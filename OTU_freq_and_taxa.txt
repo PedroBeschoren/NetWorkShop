@@ -1,0 +1,346 @@
+TaxaID	Phyla	Class	Order	Family	Genera	Freq1	Freq3	Freq6	TotalFreq
+15	Acidobacteria	Solibacteres	Solibacterales	[Bryobacteraceae]		0	24.07719755	0	24.07719755
+16	Acidobacteria	[Chloracidobacteria]	PK29			5.923419141	0	0	5.923419141
+58	Actinobacteria	Actinobacteria	Actinomycetales	Thermomonosporaceae	Actinomadura	105.5421795	14.70505537	0	120.2472349
+97	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae		44.56362314	14.18281108	37.21052632	95.95696054
+142	Cyanobacteria	4C0d-2	YS2			4.691339748	10.41570348	0	15.10704323
+155	Cyanobacteria	Oscillatoriophycideae	Oscillatoriales	Phormidiaceae	Phormidium	146.1758512	0	23.41549685	169.5913481
+200	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		2.219861329	0	11.66044687	13.8803082
+202	Firmicutes	Clostridia	Clostridiales	Peptococcaceae		10.87944531	9.238833868	0	20.11827918
+211	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	9.08248728	8.176797149	0	17.25928443
+255	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	25.66825283	0	0	25.66825283
+359	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azoarcus	18.00621447	1.468893078	0	19.47510755
+361	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Sulfuritalea	8.290897263	0	0	8.290897263
+394	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	7	5.154901112	4.645655877	16.80055699
+6	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae		4.043927649	63.8409023	0	67.88482995
+28	Actinobacteria	Actinobacteria	Actinomycetales	Frankiaceae		2.439722657	3.831065063	14.01227095	20.28305867
+31	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Other	10.40706945	0	0	10.40706945
+56	Actinobacteria	Actinobacteria	Actinomycetales	Streptosporangiaceae	Streptosporangium	79.86777297	0	0	79.86777297
+61	Actinobacteria	Thermoleophilia	Gaiellales			16.72569571	0	0	16.72569571
+66	Actinobacteria	Thermoleophilia	Solirubrobacterales	Patulibacteraceae		23.16105435	0	0	23.16105435
+69	Armatimonadetes	Armatimonadia	Armatimonadales	Armatimonadaceae		0	3.38442561	23.72193651	27.10636212
+71	Armatimonadetes	Chthonomonadetes	SJA-22			30.85088921	0	0	30.85088921
+95	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Sporocytophaga	13.14548702	0	0	13.14548702
+160	Elusimicrobia	Elusimicrobia	FAC88			20.85474122	0	0	20.85474122
+179	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina	16.30661527	0	0	16.30661527
+191	Firmicutes	Clostridia	Clostridiales	Clostridiaceae		14.34035755	0	0	14.34035755
+220	Firmicutes	Clostridia	Halanaerobiales			60.45879612	79.42374204	0	139.8825382
+231	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae		27.90271429	0	0	27.90271429
+248	Planctomycetes	vadinHA49	DH61			25.37136123	0	0	25.37136123
+251	Proteobacteria	Alphaproteobacteria	BD7-3			89.02760466	20.95341764	11.29254866	121.273571
+262	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae		0	1.468893078	27.57780274	29.04669582
+279	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae		4.879445314	6.693211444	26.08648031	37.65913707
+286	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Other	36.82747806	0	0	36.82747806
+401	Proteobacteria	Gammaproteobacteria	Methylococcales	Crenotrichaceae	Crenothrix	37.35848639	5.643041904	0	43.00152829
+23	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Microthrixaceae		25.56641509	0	0	25.56641509
+32	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae		27.73748052	8.580828061	0	36.31830858
+123	Chlorobi	OPB56				12.91283677	44.65596673	3.536391636	61.10519514
+124	Chlorobi	SJA-28				2.691339748	5.890741132	27.99194877	36.57402965
+209	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ethanoligenens	2	19.14644239	6.187180942	27.33362333
+252	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Other	82.643028	4.684560876	0	87.32758887
+295	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		8.546603868	24.43343133	10.2278481	43.2078833
+317	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Pythium	2.263788977	165.4749205	232.1405012	399.8792106
+338	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Other	12	2.100722195	95.61092931	109.7116515
+405	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae		95.82240215	7.662130126	22.78522103	126.2697533
+2	Euryarchaeota	Thermoplasmata	E2	[Methanomassiliicoccaceae]	Methanomassiliicoccus	7.350923734	2.836562216	6.681398033	16.86888398
+35	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces	18.97232611	0	0	18.97232611
+127	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	Caldilinea	31.15208684	0	0	31.15208684
+138	Chloroflexi	Thermomicrobia	AKYG1722			16.44267995	3.054178916	0	19.49685886
+189	Firmicutes	Clostridia	Clostridiales	Caldicoprobacteraceae	Caldicoprobacter	25.18663397	29.01491109	0	54.20154506
+236	Planctomycetes	Phycisphaerae	Pla1			11.26711971	28.72615748	0	39.99327718
+290	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Prosthecomicrobium	4	9.369121752	12.0312067	25.40032845
+350	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Ralstonia	2.691339748	13.55334191	17.34270961	33.58739127
+368	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	14.65958399	26.58974023	4.659049653	45.90837387
+438	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Chthoniobacter	12.77832042	12.9875073	0	25.76582772
+4	Acidobacteria	Acidobacteria-6	iii1-15	RB40		15.10543573	12.92110696	6.187180942	34.21372363
+53	Actinobacteria	Actinobacteria	Actinomycetales	Pseudonocardiaceae		10.97634918	5.299958141	2.322827939	18.59913526
+93	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Rudanella	10.36291507	5.238360625	9.866101684	25.46737738
+117	Chlamydiae	Chlamydiia	Chlamydiales	Parachlamydiaceae		12.26414412	28.0476135	0	40.31175762
+234	Planctomycetes	Phycisphaerae	CPla-3			9.821312138	9.613233172	3.002477291	22.4370226
+264	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae		6.233747639	1.915532531	77.03855404	85.18783421
+360	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Dechloromonas	3.838817526	199.7438626	12.45519613	216.0378762
+363	Proteobacteria	Deltaproteobacteria				27.57122313	28.6296677	0	56.20089083
+381	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae		32.79966147	0	0	32.79966147
+1	Crenarchaeota	Thaumarchaeota	Nitrososphaerales	Nitrososphaeraceae	Candidatus Nitrososphaera	56.04542458	0	0	56.04542458
+22	Actinobacteria	Acidimicrobiia	Acidimicrobiales	EB1017		34.34567744	0	2.329524826	36.67520227
+50	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Kribbella	54.43953134	0	0	54.43953134
+80	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Dysgonomonas	5.058678855	41.44416966	3.093590471	49.59643898
+109	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Chitinophaga	61.69849528	24.36431721	12.37436188	98.43717437
+110	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Flavihumibacter	564.6449355	0	11.06727468	575.7122101
+112	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Sediminibacterium	4.706842364	643.4242453	2.322827939	650.4539156
+136	Chloroflexi	TK10				25.73581716	11.91471934	0	37.6505365
+152	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae		73.33062363	0	3.093590471	76.4242141
+173	Firmicutes	Bacilli	Bacillales	Paenibacillaceae		43.70151799	23.58625899	0	67.28777697
+263	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Other	55.25136087	0	0	55.25136087
+312	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae		63.87774254	10.83801483	0	74.71575737
+357	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Other	3.911201077	3.137638429	209.8400087	216.8888482
+369	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae		63.39281066	0	0	63.39281066
+385	Proteobacteria	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Smithella	27.84122172	3.137638429	0	30.97886015
+386	Proteobacteria	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae		37.20756769	0	0	37.20756769
+404	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Other	944.087097	0	0	944.087097
+409	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Hydrocarboniphaga	0	269.7645803	290.0163497	559.78093
+411	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Other	168.8240859	0	0	168.8240859
+441	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	OR-59	33.46577081	0	0	33.46577081
+443	WPS-2					8.949541912	42.49397203	15.87105627	67.31457021
+21	Actinobacteria	Acidimicrobiia	Acidimicrobiales	C111		33.35239474	0	3.507395498	36.85979024
+38	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Salinibacterium	6.49749669	20.79113563	59.2778455	86.56647782
+113	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Segetibacter	30.54235603	1.915532531	0	32.45788856
+129	Chloroflexi	Anaerolineae	SBR1031	A4b		144.3893691	6.275276859	0	150.664646
+134	Chloroflexi	Ellin6529				25.3900572	5.643041904	0	31.0330991
+153	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae	Anabaena	281.5603065	9.162536749	6.004954583	296.7277978
+210	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira	22.78586025	5.643041904	13.32143857	41.75034073
+246	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	Pirellula	37.37854923	12.4219875	0	49.80053673
+269	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	21.9320439	5.670337469	4.481511915	32.08389328
+62	Actinobacteria	Thermoleophilia	Gaiellales	Gaiellaceae		79.58508989	0	0	79.58508989
+73	Armatimonadetes	SJA-176	RB046			15.65958399	15.9815084	18.55627331	50.19736569
+81	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Paludibacter	10.22040701	27.03314199	6.975180704	44.2287297
+84	Bacteroidetes	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	3045.461022	0	0	3045.461022
+106	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Solitalea	422.003458	43.19208899	101.1788739	566.374421
+126	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae		35.33111305	9.282074431	0	44.61318748
+271	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Other	24.31967995	23.88341482	0	48.20309476
+323	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Lutibacterium	20.16584704	94.3497349	49.34157268	163.8571546
+348	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Cupriavidus	27.62009127	18.19925869	3.002477291	48.82182725
+379	Proteobacteria	Deltaproteobacteria	Myxococcales	Nannocystaceae	Nannocystis	126.7011937	0	4.481511915	131.1827056
+439	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	DA101	209.3824459	0	0	209.3824459
+18	Acidobacteria	iii1-8	DS-18			78.08565647	8.19080939	0	86.27646586
+79	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae		163.2783767	42.26338084	0	205.5417576
+92	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Rhodocytophaga	114.2253366	12.0766291	8.153051376	134.4550171
+122	Chlorobi	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae		81.98039636	93.67323408	0	175.6536304
+166	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae		8.869660532	35.86425677	27.88116026	72.61507756
+174	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Ammoniphilus	225.3389097	7.47009759	0	232.8090073
+207	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Other	9.45334231	27.30811792	16.45638654	53.21784677
+215	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Pelosinus	16.39318722	22.69155753	15.77994309	54.86468783
+221	Firmicutes	Clostridia	Thermoanaerobacterales			7.540886034	41.18856126	0	48.72944729
+222	Gemmatimonadetes	Gemm-1				169.857038	6.984472547	0	176.8415106
+249	Proteobacteria	Alphaproteobacteria	Other	Other	Other	91.79980517	4.406679235	10.73220788	106.9386923
+353	Proteobacteria	Betaproteobacteria	MND1			60.31723274	5.238360625	0	65.55559337
+367	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfobulbus	27.65638701	354.2960045	0	381.9523915
+376	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	Other	374.4769613	155.6321777	859.0883129	1389.197452
+13	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae		147.9552666	32.84892495	0	180.8041915
+26	Actinobacteria	Actinobacteria	Actinomycetales	Cellulomonadaceae	Cellulomonas	9.393807546	3.569615274	35.16840747	48.13183029
+42	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae		272.3840722	27.77960268	0	300.1636749
+89	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Emticicia	706.7731486	8.780680333	3.507395498	719.0612244
+154	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae	Nostoc	595.9053349	5.238360625	12.37436188	613.5180574
+205	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	32.27512704	10.09232968	22.77852414	65.14598086
+265	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Chelatococcus	26.91311119	13.41449498	17.02712319	57.35472936
+346	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Other	20.2220427	88.19745067	9.366615073	117.7861084
+362	Proteobacteria	Betaproteobacteria	SC-I-84			150.6554341	7.038006607	0	157.6934407
+39	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Other	273.4672599	25.85450313	0	299.321763
+43	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	Dactylosporangium	134.8560288	53.54148575	0	188.3975145
+55	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	248.1376257	22.36102467	2.322827939	272.8214783
+227	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Ellin5301		154.3195369	15.188633	0	169.5081699
+270	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Other	91.18871039	46.98775114	20.94399549	159.120457
+272	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		81.95947333	14.03010415	2.322827939	98.31240542
+351	Proteobacteria	Betaproteobacteria	Ellin6067			519.3964437	21.24701015	3.093590471	543.7370443
+399	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae		28.06888098	17.3796092	26.79606023	72.24455042
+416	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	439.4950491	3.569615274	72.40054376	515.4652081
+418	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	481.268406	85.77263626	4.481511915	571.5225542
+434	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	auto67_4W		1.267119707	89.93798016	1011.83757	1103.04267
+45	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	Verrucosispora	573.4628823	61.6391277	0	635.10201
+51	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	160.0812204	13.63867023	0	173.7198906
+52	Actinobacteria	Actinobacteria	Actinomycetales	Promicromonosporaceae	Other	364.8931485	65.82402204	16.66895882	447.3861294
+96	Bacteroidetes	Cytophagia	Cytophagales	[Amoebophilaceae]	Candidatus Amoebophilus	76.25445785	190.3031434	0	266.5576013
+232	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	243.6918487	55.65305209	0	299.3449008
+235	Planctomycetes	Phycisphaerae	Phycisphaerales			125.858272	127.8929696	0	253.7512417
+245	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	A17	52.17090564	43.3450547	0	95.51596034
+284	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Pleomorphomonas	41.79416857	45.26262998	0	87.05679855
+308	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Phaeospirillum	35.97722976	38.69842904	49.54570494	124.2213638
+433	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	[Pedosphaeraceae]	Pedosphaera	28.79141652	32.87490263	2.322827939	63.98914709
+444	WS4					21.3501955	25.38515039	24.76063727	71.49598316
+76	Bacteroidetes	At12OctB3				92.34667175	56.10675464	2.657894737	151.1113211
+103	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Other	18.92185535	65.40159739	19.10449573	103.4279485
+121	Chlorobi	BSV26	VC38			867.473662	2915.6358	79.23006062	3862.339522
+229	Gemmatimonadetes	Gemmatimonadetes	N1423WL			123.5526068	82.186804	0	205.7394108
+282	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae		23.60374289	46.42447993	10.64779159	80.67601442
+322	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae		234.4829985	14.4230954	8.166445151	257.0725391
+413	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Dokdonella	111.5162262	26.88774226	98.45091143	236.8548799
+417	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	88.9414413	179.5249417	0	268.466383
+30	Actinobacteria	Actinobacteria	Actinomycetales	Geodermatophilaceae	Geodermatophilus	58.15414025	60.54858134	0	118.7027216
+34	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Other	2	90.4737267	180.5649904	273.0387171
+60	Actinobacteria	OPB41				44.84006721	60.52929837	12.88574284	118.2551084
+334	Proteobacteria	Betaproteobacteria	Burkholderiales			1.219861329	41.88876887	158.2211951	201.3298253
+382	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Chondromyces	147.1536233	29.75549012	26.5494379	203.4585514
+427	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Luteolibacter	158.8294737	30.19698266	7.014790997	196.0412473
+101	Bacteroidetes	Flavobacteriia	Flavobacteriales	[Weeksellaceae]	Chryseobacterium	79.6091259	223.4482936	173.3306523	476.3880718
+214	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	G07	1	81.85748509	210.7360905	293.5935756
+345	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	420.7994981	1108.164407	12.45519613	1541.419101
+372	Proteobacteria	Deltaproteobacteria	MIZ46			199.4716698	62.68449707	0	262.1561669
+391	Proteobacteria	Gammaproteobacteria	Alteromonadales	[Chromatiaceae]		1051.820935	56.83644882	233.713137	1342.37052
+10	Acidobacteria	Acidobacteriia	Acidobacteriales	Koribacteraceae	Candidatus Koribacter	194.0158039	136.1713234	3.093590471	333.2807178
+17	Acidobacteria	[Chloracidobacteria]	RB41	Ellin6075		555.3041461	228.191973	5.315789474	788.8119086
+139	Chloroflexi	Thermomicrobia	JG30-KF-CM45			99.91868804	19.7940397	17.37232179	137.0850495
+219	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Sedimentibacter	158.5016256	189.4451592	7.973684211	355.920469
+238	Planctomycetes	Planctomycetia	B97			17.04389918	71.99694946	193.3132266	282.3540753
+326	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	16.07313799	115.0910004	114.8889738	246.0531122
+397	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae		102.3996829	27.83503088	156.780339	287.0150528
+419	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Thermomonas	543.1580495	353.1010295	0	896.259079
+68	Armatimonadetes	0319-6E2				10.31565669	509.2883189	246.1553814	765.759357
+107	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	1402.062119	362.8429209	93.17357229	1858.078612
+137	Chloroflexi	TK10	AKYG885	Dolo_23		68.2462275	60.36511163	32.03973866	160.6510778
+309	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	344.4527204	19.53799346	138.2082099	502.1989238
+378	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	Anaeromyxobacter	344.0391633	154.4220734	12.37436188	510.8355985
+396	Proteobacteria	Gammaproteobacteria	Legionellales			25.86896077	588.9789534	139.3846489	754.2325631
+398	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	Aquicella	50.29493993	83.86736955	49.27642296	183.4387324
+14	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae	Candidatus Solibacter	225.5054537	154.8080755	38.31038228	418.6239115
+54	Actinobacteria	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Pseudonocardia	207.4304686	73.95429426	38.5270691	319.911832
+74	Armatimonadetes	[Fimbriimonadia]	[Fimbriimonadales]	[Fimbriimonadaceae]	Fimbriimonas	252.8010008	576.3166546	62.45854274	891.5761982
+82	Bacteroidetes	Cytophagia	Cytophagales			33.55618738	240.55022	207.5276411	481.6340485
+196	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Oxobacter	62.95362714	166.692749	52.64692664	282.2933027
+206	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfurispora	20.92337296	122.58106	257.3269403	400.8313732
+330	Proteobacteria	Betaproteobacteria	Other	Other	Other	16.7500186	302.5041079	653.6775765	972.931703
+442	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	heteroC45_4W	144.9384714	89.2515762	61.12644659	295.3164942
+7	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Edaphobacter	201.3134059	143.6989069	16.29328001	361.3055928
+157	Cyanobacteria	Synechococcophycideae	Pseudanabaenales	Pseudanabaenaceae	Leptolyngbya	76.05564543	123.5163208	604.987835	804.5598012
+303	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseococcus	22.18626449	60.67893788	174.3528471	257.2180495
+33	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Phycicoccus	549.2737103	137.2184806	5.751485208	692.2436761
+75	BRC1	PRR-11				63.74325049	193.464257	7.575102385	264.7826098
+149	Cyanobacteria	Chloroplast	Streptophyta			1419.673622	375.134375	535.6097925	2330.417789
+335	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae		124.7115598	64.28836205	42.97368704	231.9736089
+432	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	Ellin517		1317.755702	272.0627893	190.7243712	1780.542862
+437	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Candidatus Xiphinematobacter	109.9052749	55.3284982	60.22063686	225.45441
+9	Acidobacteria	Acidobacteriia	Acidobacteriales	Koribacteraceae		55.64791472	51.06496442	145.2663793	251.9792585
+90	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Larkinella	106.7337931	284.7443424	179.5764842	571.0546197
+141	Cyanobacteria	4C0d-2	SM1D11			736.6957293	1027.113647	2539.013695	4302.823071
+224	Gemmatimonadetes	Gemmatimonadetes				707.7124875	380.3157062	59.42679127	1147.454985
+299	Proteobacteria	Alphaproteobacteria	Rhodospirillales			458.5069875	196.686548	9.30470553	664.4982411
+374	Proteobacteria	Deltaproteobacteria	Myxococcales	0319-6G20		144.5779393	32.71062666	186.425948	363.7145139
+78	Bacteroidetes	Bacteroidia	Bacteroidales	BA008		320.0812129	1536.187741	570.1856194	2426.454574
+87	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Cytophaga	543.1278929	476.5913645	107.7375482	1127.456806
+143	Cyanobacteria	Chloroplast	Chlorophyta			296.026528	210.483207	49.57431537	556.0840504
+182	Firmicutes	Bacilli	Bacillales	[Exiguobacteraceae]	Exiguobacterium	33.47950697	495.7979641	185.5326364	714.8101075
+199	Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae		31.55627843	258.1899421	86.80457333	376.5507938
+217	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]	Anaerovorax	71.0238158	351.0434868	267.7273885	689.7946911
+11	Acidobacteria	Holophagae	Holophagales	Holophagaceae	Geothrix	295.7677031	10611.29015	26996.90694	37903.96479
+25	Actinobacteria	Actinobacteria	Actinomycetales			149.3560632	85.53622735	96.50611833	331.3984089
+48	Actinobacteria	Actinobacteria	Actinomycetales	Nocardiaceae	Rhodococcus	243.6961918	344.2379304	22.80182377	610.735946
+63	Actinobacteria	Thermoleophilia	Solirubrobacterales	Other	Other	191.5652016	1436.435786	360.7948331	1988.795821
+148	Cyanobacteria	Chloroplast	Stramenopiles			996.6676211	750.9390399	744.7280435	2492.334704
+187	Firmicutes	Clostridia	Clostridiales	Other	Other	73.66341467	150.6650344	144.9384321	369.2668812
+223	Gemmatimonadetes	Gemm-3				8729.961131	398.7392124	554.3617951	9683.062138
+225	Gemmatimonadetes	Gemmatimonadetes	Ellin5290			2818.979876	1720.922683	171.752454	4711.655013
+426	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae		177.4937587	50.84993786	191.928245	420.2719416
+5	Acidobacteria	Acidobacteria-6	iii1-15	mb2424		41.43955597	47.17944046	103.3125847	191.9315811
+29	Actinobacteria	Actinobacteria	Actinomycetales	Geodermatophilaceae	Other	301.8209231	328.7596311	31.99065061	662.5712048
+46	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	547.9860472	97.61641212	49.5953299	695.1977892
+99	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	71.33852525	509.2829887	400.708849	981.3303629
+161	FBP					401.3860601	230.8775948	109.7893022	742.0529571
+177	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Cohnella	70.40055289	66.3192936	57.58856886	194.3084153
+380	Proteobacteria	Deltaproteobacteria	Myxococcales	OM27		221.1673564	244.906817	513.4007624	979.4749358
+436	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]		794.4844506	614.1449154	236.7343233	1645.363689
+24	Actinobacteria	Actinobacteria	Actinomycetales	Other	Other	80.12604645	86.3976239	314.1274447	480.651115
+64	Actinobacteria	Thermoleophilia	Solirubrobacterales			363.9656944	60.21704084	780.1528249	1204.33556
+131	Chloroflexi	C0119				47.26272987	419.2172845	136.1098743	602.5898887
+190	Firmicutes	Clostridia	Clostridiales	Christensenellaceae		79.42655503	275.098716	323.6459563	678.1712273
+268	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	30.70257834	466.2536241	373.5550516	870.511254
+306	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Inquilinus	66.66004655	87.62817837	162.7131301	317.001355
+319	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Vermamoeba	50.86953254	290.2576415	73.8026936	414.9298677
+320	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Other	Other	269.247481	260.1676278	107.2687685	636.6838772
+329	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	1464.52718	851.977399	168.7064057	2485.210984
+358	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae		700.7991557	357.9218404	97.10985716	1155.830853
+410	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Steroidobacter	1702.133308	398.6137836	74.10644637	2174.853538
+67	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae		222.1592335	285.8782472	59.75152606	567.7890068
+98	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae	Fluviicola	39.70521216	1672.096384	5973.875729	7685.677325
+167	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Alicyclobacillus	626.5098698	557.6589148	1814.394558	2998.563343
+213	Firmicutes	Clostridia	Clostridiales	Veillonellaceae		56.21076134	164.3557931	290.0664829	510.6330373
+254	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Asticcacaulis	1559.116416	1228.772725	279.3333596	3067.2225
+354	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae		251.4634678	262.8543457	80.62955031	594.9473639
+377	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae		101.5932032	236.8012819	44.42898032	382.8234654
+388	Proteobacteria	Gammaproteobacteria	Alteromonadales	211ds20		504.33945	838.1864588	934.5441995	2277.070108
+412	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae		3871.60227	3407.887171	284.8976661	7564.387107
+414	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteibacter	95.17231456	603.8729415	4248.266497	4947.311753
+86	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Adhaeribacter	312.1894993	283.8713226	752.071712	1348.132534
+145	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	Acutodesmus	7430.774664	301.5527406	322.0330479	8054.360453
+146	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	Chlamydomonas	2944.059032	1955.87306	845.1684312	5745.100523
+228	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	146.6588433	2145.965953	8889.429039	11182.05384
+244	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae		3336.640845	1646.568583	186.2108199	5169.420248
+276	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Parvibaculum	148.075567	312.0447407	542.3297231	1002.450031
+291	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	66.05969268	486.5486255	666.7765128	1219.384831
+311	Proteobacteria	Alphaproteobacteria	Rickettsiales			155.5641908	1062.818831	381.5132256	1599.896248
+352	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Thiobacillus	66.62860951	2221.592975	3728.358571	6016.580155
+375	Proteobacteria	Deltaproteobacteria	Myxococcales	Haliangiaceae		345.7139874	229.2346355	138.8718855	713.8205084
+389	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Cellvibrio	417.5433257	459.2910689	199.9772448	1076.811639
+176	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	178.8137809	136.7616668	427.410465	742.9859126
+198	Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae	Other	98.15998269	542.9115672	390.4671339	1031.538684
+226	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales			194.4172053	50.44035019	542.7367532	787.5943086
+260	Proteobacteria	Alphaproteobacteria	Rhizobiales	Other	Other	107.7774245	333.6613473	477.4300224	918.8687941
+267	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Balneimonas	1850.433067	529.3339238	199.1554378	2578.922429
+287	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae		59.71996333	283.4972331	326.3695732	669.5867697
+292	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Other	108.0854635	102.3094196	221.067235	431.4621182
+301	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae		500.2266759	218.4475859	696.2429461	1414.917208
+327	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	88.6293554	331.1130385	718.7968902	1138.539284
+339	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	156.4344567	2225.474729	2218.233255	4600.142441
+384	Proteobacteria	Deltaproteobacteria	Spirobacillales			496.6571268	749.4759255	1153.093934	2399.226986
+393	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Morganella	217.6930065	974.1094306	648.8158052	1840.618242
+430	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]			4118.110704	4275.642841	272.0512175	8665.804762
+102	Bacteroidetes	Sphingobacteriia	Sphingobacteriales			1158.21677	2183.382458	2124.910272	5466.5095
+328	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	177.8242577	514.3819588	381.1071796	1073.313396
+331	Proteobacteria	Betaproteobacteria				959.2840235	258.3909282	150.993126	1368.668078
+373	Proteobacteria	Deltaproteobacteria	Myxococcales			7809.943862	3135.952084	356.5872531	11302.4832
+392	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Other	411.1483755	669.2576454	1209.268136	2289.674157
+425	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Opitutus	1253.95614	844.5854851	248.2832298	2346.824855
+428	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Prosthecobacter	605.365308	2006.035966	890.8103092	3502.211583
+435	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Other	1217.410236	2347.670522	244.676804	3809.757562
+20	Actinobacteria	Acidimicrobiia	Acidimicrobiales			456.1178327	686.1884301	428.8486961	1571.154959
+65	Actinobacteria	Thermoleophilia	Solirubrobacterales	Conexibacteraceae		1741.368927	1650.096785	1737.962771	5129.428483
+105	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	737.1410734	1457.537245	959.6648679	3154.343186
+150	Cyanobacteria	ML635J-21				188.2187662	259.1854817	276.0500879	723.4543359
+188	Firmicutes	Clostridia	Clostridiales			400.1225052	889.132003	1356.55325	2645.807758
+201	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	335.3662019	536.7068318	1039.281092	1911.354125
+237	Planctomycetes	Phycisphaerae	WD2101			658.0059834	637.9348457	130.8093626	1426.750192
+240	Planctomycetes	Planctomycetia	Gemmatales	Gemmataceae	Gemmata	518.5071966	1009.400389	662.7030119	2190.610598
+241	Planctomycetes	Planctomycetia	Gemmatales	Isosphaeraceae		360.0118146	1100.150909	116.5154618	1576.678186
+257	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Mycoplana	3829.019127	2639.006632	569.3599306	7037.385689
+258	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	1557.785099	1333.672563	1297.471858	4188.929521
+280	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	260.2646816	383.3247092	280.6088305	924.1982213
+285	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		256.4990227	531.2840733	679.7020277	1467.485124
+288	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	1357.943035	934.4769517	631.3546943	2923.77468
+289	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Kaistia	298.0122826	702.9447503	844.7957776	1845.75281
+324	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae		1175.987292	1804.216897	674.3525817	3654.55677
+325	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Kaistobacter	1132.10096	295.5185056	183.393636	1611.013101
+364	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae		121.8514736	363.8483539	336.2142959	821.9141235
+402	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	348.493413	2748.25873	1127.394608	4224.146751
+415	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteimonas	1900.940324	6463.656402	1986.118091	10350.71482
+431	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	Ellin515		95.95864296	495.8711458	840.8586574	1432.688446
+3	Acidobacteria	Acidobacteria-6	iii1-15			851.8220874	1679.299755	805.8898547	3337.011697
+12	Acidobacteria	Solibacteres	Solibacterales			8256.727078	9079.88935	9467.963167	26804.57959
+41	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	533.9371196	1038.662314	1222.281984	2794.881417
+49	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae		418.9780488	128.9419174	461.8607426	1009.780709
+77	Bacteroidetes	Bacteroidia	Bacteroidales			3223.759128	11096.87162	1780.742435	16101.37318
+85	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae		2056.39128	1347.849975	1788.648639	5192.889893
+88	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Dyadobacter	428.0266606	503.2793882	1105.176797	2036.482846
+94	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Spirosoma	88.65800113	409.9217918	653.3529129	1151.932706
+104	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae		2483.37614	5976.874739	2895.471585	11355.72246
+108	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae		13050.17382	20985.35412	15442.67984	49478.20778
+111	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Flavisolibacter	4220.363886	11949.28485	15566.53335	31736.18208
+164	Firmicutes	Bacilli	Bacillales			1397.706248	1038.704533	1289.922449	3726.333231
+170	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	5607.391918	6125.614931	5294.526693	17027.53354
+178	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	1031.606151	1518.1856	1605.398864	4155.190615
+192	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Caloramator	270.4628918	1740.457085	1297.692988	3308.612965
+193	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	2136.792078	2726.542783	4128.606797	8991.941658
+204	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	121.2771582	409.8399728	450.9582841	982.0754151
+208	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		244.466658	714.9000987	712.55231	1671.919067
+247	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Planctomyces	550.9538002	1002.796178	961.3965685	2515.146546
+250	Proteobacteria	Alphaproteobacteria				1634.924455	2691.935504	430.5920527	4757.452011
+253	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae		9554.483536	2302.85393	990.1460543	12847.48352
+256	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	441.6592756	1056.941047	2945.36069	4443.961013
+259	Proteobacteria	Alphaproteobacteria	Ellin329			4869.350832	1742.897042	1015.398342	7627.646216
+261	Proteobacteria	Alphaproteobacteria	Rhizobiales			1233.825377	1586.716639	2215.092628	5035.634644
+266	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae		969.6313864	2041.078684	3662.465528	6673.175598
+273	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia	3113.821762	3268.619127	1847.037179	8229.478069
+275	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	303.8211212	284.6873784	137.4138392	725.9223388
+278	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Rhodoplanes	1011.043298	2018.915184	1293.443403	4323.401884
+294	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae		1619.643831	1729.621676	3299.523355	6648.788862
+304	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		2652.334745	3206.018157	3548.645404	9406.998306
+305	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	2196.788386	3867.876746	2681.211696	8745.876828
+307	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Magnetospirillum	141.1423013	1757.412699	1319.014612	3217.569612
+315	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Acanthamoeba	484.5687844	1323.881243	1592.93662	3401.386648
+333	Proteobacteria	Betaproteobacteria	Burkholderiales	Other	Other	1000.968976	935.3895004	628.0449675	2564.403444
+336	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	1634.537111	3142.069504	1820.209039	6596.815654
+341	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Other	446.0464463	691.6850665	4690.72758	5828.459093
+342	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae		15623.21153	5926.09788	6942.572842	28491.88225
+347	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae		1461.418661	3905.128809	3589.489694	8956.037164
+365	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	376.6442404	607.796229	481.5447747	1465.985244
+370	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	2675.061356	16018.10776	15419.75984	34112.92896
+406	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	407.6209672	7254.910251	1343.26131	9005.792528
+408	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae		1833.542128	2152.855616	1536.523073	5522.920817
+424	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae		342.2953489	499.9098247	1827.958578	2670.163751

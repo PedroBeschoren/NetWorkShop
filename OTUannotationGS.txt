@@ -1,0 +1,445 @@
+OTU	Phyla	Class	Order	Family	Genera
+60	Actinobacteria	OPB41			
+68	Armatimonadetes	0319-6E2			
+75	BRC1	PRR-11			
+76	Bacteroidetes	At12OctB3			
+115	Chlamydiae	Chlamydiia			
+120	Chlorobi				
+123	Chlorobi	OPB56			
+124	Chlorobi	SJA-28			
+131	Chloroflexi	C0119			
+134	Chloroflexi	Ellin6529			
+136	Chloroflexi	TK10			
+150	Cyanobacteria	ML635J-21			
+161	FBP				
+222	Gemmatimonadetes	Gemm-1			
+223	Gemmatimonadetes	Gemm-3			
+224	Gemmatimonadetes	Gemmatimonadetes			
+230	NKB19				
+233	OD1	SM2F11			
+250	Proteobacteria	Alphaproteobacteria			
+331	Proteobacteria	Betaproteobacteria			
+363	Proteobacteria	Deltaproteobacteria			
+387	Proteobacteria	Gammaproteobacteria			
+420	TM7	TM7-1			
+443	WPS-2				
+444	WS4				
+435	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	
+436	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	
+437	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Candidatus Xiphinematobacter
+438	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Chthoniobacter
+439	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	DA101
+440	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Ellin506
+441	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	OR-59
+442	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	heteroC45_4W
+74	Armatimonadetes	[Fimbriimonadia]	[Fimbriimonadales]	[Fimbriimonadaceae]	Fimbriimonas
+429	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]		
+430	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]		
+431	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	Ellin515	
+432	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	Ellin517	
+433	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	[Pedosphaeraceae]	Pedosphaera
+434	Verrucomicrobia	[Pedosphaerae]	[Pedosphaerales]	auto67_4W	
+133	Chloroflexi	Chloroflexi	[Roseiflexales]	[Kouleothrixaceae]	
+108	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	
+109	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Chitinophaga
+110	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Flavihumibacter
+111	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Flavisolibacter
+112	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Sediminibacterium
+113	Bacteroidetes	[Saprospirae]	[Saprospirales]	Chitinophagaceae	Segetibacter
+114	Bacteroidetes	[Saprospirae]	[Saprospirales]	Saprospiraceae	
+59	Actinobacteria	MB-A2-108	0319-7L14		
+162	Fibrobacteres	Fibrobacteria	258ds10		
+332	Proteobacteria	Betaproteobacteria	A21b	EB1003	
+20	Actinobacteria	Acidimicrobiia	Acidimicrobiales		
+21	Actinobacteria	Acidimicrobiia	Acidimicrobiales	C111	
+22	Actinobacteria	Acidimicrobiia	Acidimicrobiales	EB1017	
+23	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Microthrixaceae	
+6	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	
+7	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Edaphobacter
+8	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Terriglobus
+9	Acidobacteria	Acidobacteriia	Acidobacteriales	Koribacteraceae	
+10	Acidobacteria	Acidobacteriia	Acidobacteriales	Koribacteraceae	Candidatus Koribacter
+24	Actinobacteria	Actinobacteria	Actinomycetales		
+25	Actinobacteria	Actinobacteria	Actinomycetales		
+26	Actinobacteria	Actinobacteria	Actinomycetales	Cellulomonadaceae	Cellulomonas
+27	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium
+28	Actinobacteria	Actinobacteria	Actinomycetales	Frankiaceae	
+29	Actinobacteria	Actinobacteria	Actinomycetales	Geodermatophilaceae	
+30	Actinobacteria	Actinobacteria	Actinomycetales	Geodermatophilaceae	Geodermatophilus
+31	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	
+32	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	
+33	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Phycicoccus
+34	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	
+35	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces
+36	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Curtobacterium
+37	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Leucobacter
+38	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Salinibacterium
+39	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	
+40	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	
+41	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter
+42	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	
+43	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	Dactylosporangium
+44	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	Pilimelia
+45	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	Verrucosispora
+46	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium
+47	Actinobacteria	Actinobacteria	Actinomycetales	Nocardiaceae	
+48	Actinobacteria	Actinobacteria	Actinomycetales	Nocardiaceae	Rhodococcus
+49	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	
+50	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Kribbella
+51	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides
+52	Actinobacteria	Actinobacteria	Actinomycetales	Promicromonosporaceae	
+53	Actinobacteria	Actinobacteria	Actinomycetales	Pseudonocardiaceae	
+54	Actinobacteria	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Pseudonocardia
+55	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces
+56	Actinobacteria	Actinobacteria	Actinomycetales	Streptosporangiaceae	Streptosporangium
+57	Actinobacteria	Actinobacteria	Actinomycetales	Thermomonosporaceae	
+58	Actinobacteria	Actinobacteria	Actinomycetales	Thermomonosporaceae	Actinomadura
+132	Chloroflexi	Chloroflexi	AKIW781		
+138	Chloroflexi	Thermomicrobia	AKYG1722		
+137	Chloroflexi	TK10	AKYG885	Dolo_23	
+388	Proteobacteria	Gammaproteobacteria	Alteromonadales	211ds20	
+389	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Cellvibrio
+390	Proteobacteria	Gammaproteobacteria	Alteromonadales	HTCC2188	HTCC
+391	Proteobacteria	Gammaproteobacteria	Alteromonadales	[Chromatiaceae]	
+125	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolinaceae	Anaerolinea
+69	Armatimonadetes	Armatimonadia	Armatimonadales	Armatimonadaceae	
+135	Chloroflexi	Ktedonobacteria	B12-WMSP1		
+238	Planctomycetes	Planctomycetia	B97		
+164	Firmicutes	Bacilli	Bacillales		
+165	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	
+166	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	
+167	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Alicyclobacillus
+168	Firmicutes	Bacilli	Bacillales	Bacillaceae	
+169	Firmicutes	Bacilli	Bacillales	Bacillaceae	
+170	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus
+171	Firmicutes	Bacilli	Bacillales	Bacillaceae	Marinibacillus
+172	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	
+173	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	
+174	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Ammoniphilus
+175	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Aneurinibacillus
+176	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus
+177	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Cohnella
+178	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus
+179	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina
+180	Firmicutes	Bacilli	Bacillales	Sporolactobacillaceae	
+181	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+182	Firmicutes	Bacilli	Bacillales	[Exiguobacteraceae]	Exiguobacterium
+77	Bacteroidetes	Bacteroidia	Bacteroidales		
+78	Bacteroidetes	Bacteroidia	Bacteroidales	BA008	
+79	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	
+80	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Dysgonomonas
+81	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Paludibacter
+251	Proteobacteria	Alphaproteobacteria	BD7-3		
+364	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	
+365	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio
+333	Proteobacteria	Betaproteobacteria	Burkholderiales		
+334	Proteobacteria	Betaproteobacteria	Burkholderiales		
+335	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	
+336	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter
+337	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Denitrobacter
+338	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	
+339	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia
+340	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Salinispora
+341	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	
+342	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	
+343	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas
+344	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans
+345	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas
+346	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	
+347	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	
+348	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Cupriavidus
+349	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia
+350	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Ralstonia
+126	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	
+127	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	Caldilinea
+252	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	
+253	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	
+254	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Asticcacaulis
+255	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas
+256	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter
+257	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Mycoplana
+258	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium
+116	Chlamydiae	Chlamydiia	Chlamydiales		
+117	Chlamydiae	Chlamydiia	Chlamydiales	Parachlamydiaceae	
+118	Chlamydiae	Chlamydiia	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia
+119	Chlamydiae	Chlamydiia	Chlamydiales	Rhabdochlamydiaceae	Candidatus Rhabdochlamydia
+143	Cyanobacteria	Chloroplast	Chlorophyta		
+144	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	
+145	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	Acutodesmus
+146	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	Chlamydomonas
+187	Firmicutes	Clostridia	Clostridiales		
+188	Firmicutes	Clostridia	Clostridiales		
+189	Firmicutes	Clostridia	Clostridiales	Caldicoprobacteraceae	Caldicoprobacter
+190	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	
+191	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	
+192	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Caloramator
+193	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium
+194	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Geosporobacter_Thermotalea
+195	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Natronincola_Anaerovirgula
+196	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Oxobacter
+197	Firmicutes	Clostridia	Clostridiales	Dehalobacteriaceae	
+198	Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae	
+199	Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae	
+200	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+201	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus
+202	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	
+203	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Dehalobacter_Syntrophobotulus
+204	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus
+205	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum
+206	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfurispora
+207	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	
+208	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	
+209	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ethanoligenens
+210	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira
+211	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus
+212	Firmicutes	Clostridia	Clostridiales	Symbiobacteriaceae	Symbiobacterium
+213	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	
+214	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	G07
+215	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Pelosinus
+216	Firmicutes	Clostridia	Clostridiales	[Acidaminobacteraceae]	
+217	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]	Anaerovorax
+218	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Finegoldia
+219	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Sedimentibacter
+234	Planctomycetes	Phycisphaerae	CPla-3		
+147	Cyanobacteria	Chloroplast	Cryptophyta		
+82	Bacteroidetes	Cytophagia	Cytophagales		
+83	Bacteroidetes	Cytophagia	Cytophagales	Cyclobacteriaceae	
+84	Bacteroidetes	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus
+85	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	
+86	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Adhaeribacter
+87	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Cytophaga
+88	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Dyadobacter
+89	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Emticicia
+90	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Larkinella
+91	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Pontibacter
+92	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Rhodocytophaga
+93	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Rudanella
+94	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Spirosoma
+95	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Sporocytophaga
+96	Bacteroidetes	Cytophagia	Cytophagales	[Amoebophilaceae]	Candidatus Amoebophilus
+366	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	
+367	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfobulbus
+368	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio
+369	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae	
+370	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter
+248	Planctomycetes	vadinHA49	DH61		
+18	Acidobacteria	iii1-8	DS-18		
+2	Euryarchaeota	Thermoplasmata	E2	[Methanomassiliicoccaceae]	Methanomassiliicoccus
+259	Proteobacteria	Alphaproteobacteria	Ellin329		
+225	Gemmatimonadetes	Gemmatimonadetes	Ellin5290		
+351	Proteobacteria	Betaproteobacteria	Ellin6067		
+159	Elusimicrobia	Elusimicrobia	Elusimicrobiales		
+392	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	
+393	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Morganella
+394	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia
+421	TM7	TM7-3	EW055		
+371	Proteobacteria	Deltaproteobacteria	FAC87		
+160	Elusimicrobia	Elusimicrobia	FAC88		
+97	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae	
+98	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae	Fluviicola
+99	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium
+100	Bacteroidetes	Flavobacteriia	Flavobacteriales	[Weeksellaceae]	
+101	Bacteroidetes	Flavobacteriia	Flavobacteriales	[Weeksellaceae]	Chryseobacterium
+70	Armatimonadetes	Armatimonadia	FW68		
+72	Armatimonadetes	SJA-176	GAB-B06		
+61	Actinobacteria	Thermoleophilia	Gaiellales		
+62	Actinobacteria	Thermoleophilia	Gaiellales	Gaiellaceae	
+128	Chloroflexi	Anaerolineae	GCA004		
+239	Planctomycetes	Planctomycetia	Gemmatales	Gemmataceae	
+240	Planctomycetes	Planctomycetia	Gemmatales	Gemmataceae	Gemmata
+241	Planctomycetes	Planctomycetia	Gemmatales	Isosphaeraceae	
+242	Planctomycetes	Planctomycetia	Gemmatales	Isosphaeraceae	Singulisphaera
+226	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales		
+227	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Ellin5301	
+228	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas
+220	Firmicutes	Clostridia	Halanaerobiales		
+183	Firmicutes	Bacilli	Haloplasmatales	Haloplasmataceae	
+11	Acidobacteria	Holophagae	Holophagales	Holophagaceae	Geothrix
+395	Proteobacteria	Gammaproteobacteria	HTCC2188	HTCC2089	
+352	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Thiobacillus
+122	Chlorobi	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae	
+3	Acidobacteria	Acidobacteria-6	iii1-15		
+4	Acidobacteria	Acidobacteria-6	iii1-15	RB40	
+5	Acidobacteria	Acidobacteria-6	iii1-15	mb2424	
+139	Chloroflexi	Thermomicrobia	JG30-KF-CM45		
+184	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus
+396	Proteobacteria	Gammaproteobacteria	Legionellales		
+397	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	
+398	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	Aquicella
+399	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	
+400	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella
+401	Proteobacteria	Gammaproteobacteria	Methylococcales	Crenotrichaceae	Crenothrix
+354	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	
+372	Proteobacteria	Deltaproteobacteria	MIZ46		
+423	Tenericutes	RF3	ML615J-28		
+140	Cyanobacteria	4C0d-2	MLE1-12		
+353	Proteobacteria	Betaproteobacteria	MND1		
+373	Proteobacteria	Deltaproteobacteria	Myxococcales		
+374	Proteobacteria	Deltaproteobacteria	Myxococcales	0319-6G20	
+375	Proteobacteria	Deltaproteobacteria	Myxococcales	Haliangiaceae	
+376	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	
+377	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	
+378	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	Anaeromyxobacter
+379	Proteobacteria	Deltaproteobacteria	Myxococcales	Nannocystaceae	Nannocystis
+380	Proteobacteria	Deltaproteobacteria	Myxococcales	OM27	
+381	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	
+382	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Chondromyces
+383	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Phaselicystis
+229	Gemmatimonadetes	Gemmatimonadetes	N1423WL		
+1	Crenarchaeota	Thaumarchaeota	Nitrososphaerales	Nitrososphaeraceae	Candidatus Nitrososphaera
+231	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	
+232	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira
+151	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae	
+152	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae	
+153	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae	Anabaena
+154	Cyanobacteria	Nostocophycideae	Nostocales	Nostocaceae	Nostoc
+424	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	
+425	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Opitutus
+155	Cyanobacteria	Oscillatoriophycideae	Oscillatoriales	Phormidiaceae	Phormidium
+235	Planctomycetes	Phycisphaerae	Phycisphaerales		
+243	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	
+244	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	
+245	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	A17
+246	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	Pirellula
+16	Acidobacteria	[Chloracidobacteria]	PK29		
+236	Planctomycetes	Phycisphaerae	Pla1		
+247	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Planctomyces
+355	Proteobacteria	Betaproteobacteria	Procabacteriales	Procabacteriaceae	
+356	Proteobacteria	Betaproteobacteria	Procabacteriales	Procabacteriaceae	Procabacter
+156	Cyanobacteria	Synechococcophycideae	Pseudanabaenales	Pseudanabaenaceae	
+157	Cyanobacteria	Synechococcophycideae	Pseudanabaenales	Pseudanabaenaceae	Leptolyngbya
+402	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter
+403	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter
+404	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	
+405	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	
+406	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas
+73	Armatimonadetes	SJA-176	RB046		
+17	Acidobacteria	[Chloracidobacteria]	RB41	Ellin6075	
+422	Tenericutes	Mollicutes	RF39		
+260	Proteobacteria	Alphaproteobacteria	Rhizobiales		
+261	Proteobacteria	Alphaproteobacteria	Rhizobiales		
+262	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	
+263	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	
+264	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	
+265	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Chelatococcus
+266	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	
+267	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Balneimonas
+268	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea
+269	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium
+270	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	
+271	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	
+272	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	
+273	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia
+274	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Filomicrobium
+275	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium
+276	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Parvibaculum
+277	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium
+278	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Rhodoplanes
+279	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	
+280	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+281	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	
+282	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	
+283	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylosinus
+284	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Pleomorphomonas
+285	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	
+286	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	
+287	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	
+288	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium
+289	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Kaistia
+290	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Prosthecomicrobium
+291	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium
+292	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	
+293	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Labrys
+294	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	
+295	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	
+296	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Amaricoccus
+297	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus
+298	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter
+357	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	
+358	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	
+359	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azoarcus
+360	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Dechloromonas
+361	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Sulfuritalea
+299	Proteobacteria	Alphaproteobacteria	Rhodospirillales		
+300	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	
+301	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	
+302	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidocella
+303	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseococcus
+304	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	
+305	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum
+306	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Inquilinus
+307	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Magnetospirillum
+308	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Phaeospirillum
+309	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella
+310	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Telmatospirillum
+311	Proteobacteria	Alphaproteobacteria	Rickettsiales		
+312	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	
+313	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia
+314	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	
+315	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Acanthamoeba
+316	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Malawimonas
+317	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Pythium
+318	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Saprolegnia
+319	Proteobacteria	Alphaproteobacteria	Rickettsiales	mitochondria	Vermamoeba
+129	Chloroflexi	Anaerolineae	SBR1031	A4b	
+362	Proteobacteria	Betaproteobacteria	SC-I-84		
+130	Chloroflexi	Anaerolineae	SJA-15		
+71	Armatimonadetes	Chthonomonadetes	SJA-22		
+19	Acidobacteria	iii1-8	SJA-36		
+141	Cyanobacteria	4C0d-2	SM1D11		
+12	Acidobacteria	Solibacteres	Solibacterales		
+13	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae	
+14	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae	Candidatus Solibacter
+15	Acidobacteria	Solibacteres	Solibacterales	[Bryobacteraceae]	
+63	Actinobacteria	Thermoleophilia	Solirubrobacterales		
+64	Actinobacteria	Thermoleophilia	Solirubrobacterales		
+65	Actinobacteria	Thermoleophilia	Solirubrobacterales	Conexibacteraceae	
+66	Actinobacteria	Thermoleophilia	Solirubrobacterales	Patulibacteraceae	
+67	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	
+102	Bacteroidetes	Sphingobacteriia	Sphingobacteriales		
+103	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	
+104	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	
+105	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter
+106	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Solitalea
+107	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium
+320	Proteobacteria	Alphaproteobacteria	Sphingomonadales		
+321	Proteobacteria	Alphaproteobacteria	Sphingomonadales		
+322	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	
+323	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Lutibacterium
+324	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	
+325	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Kaistobacter
+326	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium
+327	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium
+328	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+329	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis
+384	Proteobacteria	Deltaproteobacteria	Spirobacillales		
+148	Cyanobacteria	Chloroplast	Stramenopiles		
+149	Cyanobacteria	Chloroplast	Streptophyta		
+158	Cyanobacteria	Synechococcophycideae	Synechococcales	Synechococcaceae	Synechococcus
+385	Proteobacteria	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Smithella
+386	Proteobacteria	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	
+163	Fibrobacteres	TG3	TG3-1	TSCOR003-O20	
+221	Firmicutes	Clostridia	Thermoanaerobacterales		
+407	Proteobacteria	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	
+185	Firmicutes	Bacilli	Turicibacterales	Turicibacteraceae	Turicibacter
+121	Chlorobi	BSV26	VC38		
+426	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	
+427	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Luteolibacter
+428	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Prosthecobacter
+237	Planctomycetes	Phycisphaerae	WD2101		
+408	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	
+409	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Hydrocarboniphaga
+410	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Steroidobacter
+411	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	
+412	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	
+413	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Dokdonella
+414	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteibacter
+415	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteimonas
+416	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas
+417	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter
+418	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas
+419	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Thermomonas
+142	Cyanobacteria	4C0d-2	YS2		
+186	Firmicutes	Clostridia			
+249	Proteobacteria	Alphaproteobacteria			
+330	Proteobacteria	Betaproteobacteria			
